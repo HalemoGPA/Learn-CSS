@@ -1,0 +1,10 @@
+/* Target all paragraphs */
+p{
+    color: red;
+}
+.special{
+    color: green;
+}
+#special{
+    color: blue;
+}
