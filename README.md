@@ -6,7 +6,7 @@
 
 # Learn CSS
 Elzero Web School CSS Course Assignments Solution
-## Week 1
+## Week 1️⃣
 #### [codes for week 1](https://github.com/HalemoGPA/Learn-CSS/tree/main/week1)  
 [     • Assignment 1](https://github.com/HalemoGPA/Learn-CSS/tree/main/week1/Assignment1)    
 [     • Assignment 2](https://github.com/HalemoGPA/Learn-CSS/tree/main/week1/Assignment2)    
