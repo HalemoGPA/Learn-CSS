@@ -1,10 +1,7 @@
-/* Target all paragraphs */
-p{
-    color: red;
-}
-.special{
-    color: green;
-}
-#special{
-    color: blue;
+div{
+    background-color: rgb(98, 196, 209);
+    padding : 10px 20px ;
+    width: 70%;
+    margin: auto;
+    
 }
