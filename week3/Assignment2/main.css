@@ -1,0 +1,17 @@
+div{
+    background-color: #EEE;
+    width: 400px;
+    border-width: 5px;
+    outline: 10px solid #EEE;
+    margin: 30px;
+    padding: 10px;
+}
+.s1{
+    border-left: 5px solid red;
+}
+.s2{
+    visibility: hidden;
+}
+.s3{
+    border-left: 5px solid #1ab088;
+}

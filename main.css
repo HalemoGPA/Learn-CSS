@@ -1,7 +1,10 @@
 div{
-    background-color: rgb(98, 196, 209);
-    padding : 10px 20px ;
-    width: 70%;
-    margin: auto;
-    
+    background-color: red;
+    margin : 10px 0px;
+}
+.first{
+   visibility: hidden;
+}
+.second{
+
 }
