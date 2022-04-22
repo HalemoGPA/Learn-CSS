@@ -1,10 +1,9 @@
-div{
-    background-color: red;
-    margin : 10px 0px;
-}
-.first{
-   visibility: hidden;
-}
-.second{
+div {
+    width: 150px;
+    height: 150px;
+    background-color: #EEE;
+    margin :20px auto;
+    border-radius: 6px;
+    overflow-y: hidden;
 
 }
