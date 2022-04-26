@@ -1,9 +1,11 @@
-div {
-    width: 150px;
-    height: 150px;
-    background-color: #EEE;
-    margin :20px auto;
-    border-radius: 6px;
-    overflow-y: hidden;
-
+div{
+    background-color: #F9F9F9;
+    padding: 10px;
+    width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+div:hover{
+    overflow: visible;
 }

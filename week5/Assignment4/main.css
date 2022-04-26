@@ -1,0 +1,14 @@
+a{
+    display: block;
+    background-color:darkcyan;
+    border-bottom:15px solid darkslategray;
+    color: white;
+    text-transform: capitalize;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: fit-content;
+    text-decoration: none;
+    font-size: 80px;
+    padding : 30px 50px;
+    margin: auto;
+
+}
