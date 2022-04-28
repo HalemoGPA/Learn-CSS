@@ -1,0 +1,28 @@
+.parent{
+    width: 800px;
+    padding: 0px;
+    background-color: #EEE;
+    text-align: center;
+}
+.parent div{
+    background-color: #DDD;
+    float: left;
+    padding: 10px 0px;
+    margin:15px 0px 15px 15px;
+}
+.full-width{
+    width: calc(100% - 2*15px) ;
+}
+.one-third{
+    width:calc(((100%) - (15px * 4))/3);
+}
+.one-half{
+    width: calc(((100%) - (15px * 3))/2);
+}
+.one-forth{
+    width:calc((100% - 15px *5)/4);
+}
+.clear{
+    display: block;
+    clear: both;
+}
