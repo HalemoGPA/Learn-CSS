@@ -1,7 +1,21 @@
-.one{
-    background-color: rgb(255 0 0 / .1);
+body{
+    font-family: Arial, Helvetica, sans-serif;
 }
-.two{
-    background-color: red;
-    opacity: 0.1;
+
+table {
+    width: 100%;
+    border-spacing:5px;
+    
+}
+table td{
+    padding: 15px;
+    background-color: #EEE;
+    border: 1px solid #e2e2e2;
+    border-radius: 5px;
+}
+table thead td{
+    background-color: #009688;
+    color: white;
+    font-weight: bold;
+    text-align: center;
 }

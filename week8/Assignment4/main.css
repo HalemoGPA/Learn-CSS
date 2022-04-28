@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+table{
+    width:700px ;
+    background-color: white;
+    border-bottom: 3px solid #2ba89c;
+    margin: auto;
+    
+}
+table thead{
+    font-weight: bold;
+    background-color: #404040;
+
+}
+
+th{
+    padding :10px;
+    color: white;  
+}
+td{
+    
+    padding :30px;
+    background-color: #EEE;
+    position: relative;
+}
+caption{
+    font-weight: bold;
+    padding: 10px;
+}
+img{
+    width: 80px;
+    position: absolute;
+    left:0px;
+    top:15px
+}
+.view{
+    background-color: #03a9f4;
+    margin-left: 16px;
+}
+.delete{
+    background-color: #e91e63; 
+}
+a{
+    font-weight: bold;
+    text-decoration: none;
+    padding: 5px 10px;
+    font-size: 12px;
+    color:white;
+}
+/*view :  #03a9f4    delete :  #e91e63 */

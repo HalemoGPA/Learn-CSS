@@ -1,0 +1,39 @@
+div{
+    width:400px;
+    margin: auto;
+    padding :20px;
+    margin-top: 20px;
+    background-color:#eeeeee;
+    border-top: 3px solid #f3554a;
+    border-right: 3px solid #319ef4;
+    border-bottom: 3px solid #f3554a;
+    border-left: 3px solid #319ef4;
+    position: relative;
+    
+}
+span{
+    background-color: #319ef4;
+    position: absolute;
+    padding:5px 15px;
+    color: white;
+}
+.top-left{
+    top:-15%;
+    left:-5%;
+    border-right: 3px solid #f3554a;
+}
+.top-right{
+    top: -15%;
+    right: -5%;
+    border-left:3px solid #f3554a;
+}
+.bottom-left{
+    bottom: -14%;
+    left: -5%;
+    border-right: 3px solid #f3554a;
+}
+.bottom-right{
+    bottom: -14%;
+    right: -5%;
+    border-left:3px solid #f3554a;
+}
