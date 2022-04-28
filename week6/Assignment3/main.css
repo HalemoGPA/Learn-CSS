@@ -1,0 +1,16 @@
+html{
+    font-size: 20px;
+}
+div{
+    text-align: center;
+    line-height: 2;
+}
+.one{
+    font-size: 2.5rem;
+}
+.two{
+    font-size: 2rem;
+}
+.three{
+    font-size: 1.5rem;
+}

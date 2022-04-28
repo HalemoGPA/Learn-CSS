@@ -1,0 +1,16 @@
+div{
+    font-size: 50px;
+    text-align: center;
+    line-height: 1.6;
+}
+.one{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+.two{
+    font-family: 'Cairo', sans-serif;
+}
+.three{
+    font-family: 'Jomhuria', cursive;
+}
