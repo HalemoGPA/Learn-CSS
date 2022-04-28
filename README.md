@@ -58,6 +58,18 @@ Elzero Web School CSS Course Assignments Solution
 
 
 
+## Week 8️⃣   
+#### [codes for week 8](https://github.com/HalemoGPA/Learn-CSS/tree/main/week8)   
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-CSS/tree/main/week8/Assignment1)    
+[     • Assignment 2](https://github.com/HalemoGPA/Learn-CSS/tree/main/week8/Assignment2)    
+[     • Assignment 3](https://github.com/HalemoGPA/Learn-CSS/tree/main/week8/Assignment3)    
+[     • Assignment 4](https://github.com/HalemoGPA/Learn-CSS/tree/main/week8/Assignment4)    
+
+
+
+
+
+
 <br><div align="center">
 
   <a href="https://www.buymeacoffee.com/HalemoGPA" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
