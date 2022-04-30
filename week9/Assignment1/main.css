@@ -1,0 +1,11 @@
+div{
+    margin: 20px auto;
+    width: 300px;
+    height: 60px;
+    background-color: #eeeeee;
+    text-align: center;
+    line-height: 60px;
+}
+div:empty{
+    background-color: #ff0000;
+}

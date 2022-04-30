@@ -1,0 +1,21 @@
+p{
+    background-color: #EEE;
+    padding: 20px;
+    width: fit-content;
+    margin: 20px auto;
+    text-align: center;
+    position: relative;
+    border-right: 4px solid #f44336;
+    counter-increment: countp;
+}
+p::before{
+    content: counter(countp);
+    position: absolute;
+    width: 58px;
+    height: 58px;
+    background-color: #f44336;
+    color: white;
+    line-height: 58px;
+    top: calc(50% - 29px);
+    left: -52px;
+}

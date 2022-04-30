@@ -1,0 +1,18 @@
+div{
+    margin: auto;
+    background-color: #DDD;
+    width: fit-content;
+    padding: 20px;
+    counter-increment: count;
+    position: relative;
+}
+div::before{
+    content:counter(count);
+    position: absolute;
+    left: -15px;
+    top: 10px;
+    background-color: red;
+    padding: 10px;
+    color: white;
+
+}
