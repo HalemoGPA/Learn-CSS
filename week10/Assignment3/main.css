@@ -1,0 +1,96 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.parent {
+    width: 550px;
+    height: 300px;
+    background-color: #ffffff;
+    margin: auto;
+    text-align: center;
+    position: relative;
+}
+.one,.two{
+    background-color: #EEE;
+    width:calc(50% - 50px);
+    height: 280px;
+    position: absolute;  
+}
+.one{
+    top: 10px;
+    left: 16px;
+}
+.two{
+    top: 10px;
+    right: 16px;
+}
+.basic{
+    position: absolute;
+    border-radius: 11px;
+    width: calc(80% );
+    height:45px;
+    background-color: #03a9f4;
+    font-weight: bold;
+    font-size: 20px;
+    top: 13px;
+    left: 22px;
+    text-align: center;
+    color: white;
+    line-height: 45px;
+}
+.free{
+    border-radius: 50%;
+    width: 185px;
+    height: 185px;
+    background-color: #DDD;
+    position: absolute;
+    top: 78px;
+    left: 21px;
+    line-height: 185px;
+    font-size: 30px;
+}
+.pro{
+    position: absolute;
+    border-radius: 11px;
+    width: calc(80% );
+    height:45px;
+    background-color: #03a9f4;
+    font-weight: bold;
+    font-size: 20px;
+    top: 13px;
+    left: 22px;
+    text-align: center;
+    color: white;
+    line-height: 45px;
+}
+.dollar{
+    border-radius: 50%;
+    width: 185px;
+    height: 185px;
+    background-color: #DDD;
+    position: absolute;
+    top: 78px;
+    left: 21px;
+    line-height: 185px;
+    font-size: 30px;
+}
+.one::after{
+    content: "";
+    position: absolute;
+    width: 1px;
+    height: 280px;
+    background-color: #03a9f4;
+    top: 0px;
+    left: 115%;
+}
+.two::before{
+    content: "Or";
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: #03a9f4;
+    top: calc(50% - 20px);
+    left: -22%;
+    color: white;
+    line-height: 30px;
+    border-radius: 50%;
+}

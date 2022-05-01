@@ -1,81 +1,20 @@
-.parent{
-    margin-bottom: 20px;
-    overflow: hidden;
-    counter-increment: memebers-counter;    
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
-.one {
-    background-color: #eee;
-    padding:15px;
+.parent {
     width: 600px;
+    overflow: hidden;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #DDD;
+}
+.one{
+    background-color: #EEE;
+    width: 300px;
     float: left;
-    position: relative;
-
-}
-.one::before{
-    content: "";
-    width: 0;
-    height: 0;
-    left: -20px;
-    top: calc(50% - 10px);
-    position: absolute;
-    border-width: 10px;
-    border-style: solid;
-    border-color: transparent #009688 transparent transparent;
-
-
-}
-
-.one::after{
-    content: counter(memebers-counter);
-    position: absolute;
-    background: red;
-    color: white;
-    padding: 5px;
-    top: calc(50% - 15px);
-    right: -20px;
-    width: 30px;
-    height: 20px;
-    text-align: center;
-    font-weight: bold;
-}
-
-
-.user{
-    background-color: #eee;
-    width: 50px;
-    margin-right: 20px;
     padding: 10px;
-    height: 55.5px;
-    float : left;
-    font-size: 50px;
-    text-align: center;
-}
-
-/* 
-.one .pipeline{
-    position: absolute;
-    width: 5px;
-    height: 100%;
-    right: -10px;
-    top: 0;
-    background-color: #009688;
-} */
-
-
-ul{
-    list-style: none;
-}
-ul li{
-    position: relative;
-}
-ul li:before{
-    content: "";
-    width: 0;
-    height: 0;
-    left: -20px;
-    top: calc(50% - 10px);
-    position: absolute;
-    border-width: 10px;
-    border-style: solid;
-    border-color: transparent #009688 transparent transparent;
+    border: 10px solid #F00;
+    
 }
