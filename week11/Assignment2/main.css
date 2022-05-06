@@ -1,0 +1,27 @@
+div{
+    z-index: -1;
+    width: 400px !important;
+    text-align: center;
+    font-size: 20px !important;
+    color: black !important;
+    background-color: #EEE !important;
+    margin: auto;
+    border: none !important;
+    position: relative;
+}
+div::after{
+    content:"Elzero";
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: black ;
+    width: 400px;
+    padding: 10px;
+    height: fit-content;
+    line-height: calc(100% + 20px);
+    z-index: 5;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #EEE;
+    font-family: Arial, Helvetica, sans-serif;
+}

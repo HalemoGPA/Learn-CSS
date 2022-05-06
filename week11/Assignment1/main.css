@@ -1,0 +1,30 @@
+.up{
+    background-color: #EEE;
+    width: 400px;
+    height: 280px;
+    margin: 30px auto;
+    padding: 10px;
+    text-align: center;
+    line-height: 50px;
+    transition: all .5s ease ;
+    
+}
+.up:hover{
+    margin-top: 0px;
+    transition: all .5s ease ;
+}
+
+.down{
+    background-color:#DDD;
+    padding : 10px;
+    width:380px;
+    margin :20px auto;
+    height:70px;
+    line-height: 70px;
+    text-align: center;
+    transition: all .5s ease .5s;
+}
+.up:hover .down{
+    margin-top: 50px;
+    transition: all .5s ease .5s;
+}
