@@ -88,8 +88,14 @@ Elzero Web School CSS Course Assignments Solution
 [     • Assignment 3](https://github.com/HalemoGPA/Learn-CSS/tree/main/week11/Assignment3)    
 
 
-
-
+## Week 1️⃣2️⃣ 
+#### [codes for week 12](https://github.com/HalemoGPA/Learn-CSS/tree/main/week12)   
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-CSS/tree/main/week12/Assignment1)    
+[     • Assignment 2](https://github.com/HalemoGPA/Learn-CSS/tree/main/week12/Assignment2)    
+[     • Assignment 3](https://github.com/HalemoGPA/Learn-CSS/tree/main/week12/Assignment3)    
+[     • Assignment 4](https://github.com/HalemoGPA/Learn-CSS/tree/main/week12/Assignment4)    
+[     • Assignment 5](https://github.com/HalemoGPA/Learn-CSS/tree/main/week12/Assignment5)   
+[     • Assignment 6](https://github.com/HalemoGPA/Learn-CSS/tree/main/week12/Assignment6)     
 
 <br><div align="center">
 
