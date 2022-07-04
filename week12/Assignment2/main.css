@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+.parent {
+  margin: 0 auto;
+  width: 600px;
+  height: 300px;
+  background-color: #EEE;
+  display: flex;
+  justify-content: space-around;
+  align-items: space-between;
+  padding: 10px 0 10px 0;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+
+.parent div {
+  background-color: #F44336;
+  width: 180px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+
+}
