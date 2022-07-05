@@ -97,6 +97,14 @@ Elzero Web School CSS Course Assignments Solution
 [     • Assignment 5](https://github.com/HalemoGPA/Learn-CSS/tree/main/week12/Assignment5)   
 [     • Assignment 6](https://github.com/HalemoGPA/Learn-CSS/tree/main/week12/Assignment6)     
 
+
+
+## Week 1️⃣3️⃣ 
+#### [codes for week 13](https://github.com/HalemoGPA/Learn-CSS/tree/main/week13)   
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-CSS/tree/main/week13/Assignment1)    
+[     • Assignment 2](https://github.com/HalemoGPA/Learn-CSS/tree/main/week13/Assignment2)    
+
+
 <br><div align="center">
 
   <a href="https://www.buymeacoffee.com/HalemoGPA" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
