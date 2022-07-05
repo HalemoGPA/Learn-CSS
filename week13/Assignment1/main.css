@@ -1,0 +1,38 @@
+div {
+  margin: 50px auto;
+  width: 600px;
+  height: 200px;
+  background-color: #EEE;
+  text-align: center;
+  line-height: 200px;
+  font-size: 3em;
+  font-weight: bold;
+  letter-spacing: .3em;
+  position: relative;
+
+}
+
+div::before {
+  content: "";
+  width: calc(100% + (10% / 3));
+  height: 110%;
+  background: linear-gradient(to right,
+      #F44336 0%,
+      #F44336 20%,
+      #2196F3 20%,
+      #2196F3 40%,
+      #4CAF50 40%,
+      #4CAF50 60%,
+      #E91E63 60%,
+      #E91E63 80%,
+      #673AB7 80%,
+      #673AB7 100%);
+  position: absolute;
+  top: -5%;
+  left: calc((-10% / 3) / 2);
+  z-index: -1;
+}
+
+::first-letter {
+  color: #F44336;
+}
