@@ -102,7 +102,25 @@ Elzero Web School CSS Course Assignments Solution
 ## Week 1️⃣3️⃣ 
 #### [codes for week 13](https://github.com/HalemoGPA/Learn-CSS/tree/main/week13)   
 [     • Assignment 1](https://github.com/HalemoGPA/Learn-CSS/tree/main/week13/Assignment1)    
-[     • Assignment 2](https://github.com/HalemoGPA/Learn-CSS/tree/main/week13/Assignment2)    
+[     • Assignment 2](https://github.com/HalemoGPA/Learn-CSS/tree/main/week13/Assignment2)      
+
+
+## Week 1️⃣4️⃣ 
+#### [codes for week 14](https://github.com/HalemoGPA/Learn-CSS/tree/main/week14)   
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-CSS/tree/main/week14/Assignment1)    
+[     • Assignment 2](https://github.com/HalemoGPA/Learn-CSS/tree/main/week14/Assignment2)    
+[     • Assignment 3](https://github.com/HalemoGPA/Learn-CSS/tree/main/week14/Assignment3)    
+[     • Assignment 4](https://github.com/HalemoGPA/Learn-CSS/tree/main/week14/Assignment4)    
+[     • Assignment 5](https://github.com/HalemoGPA/Learn-CSS/tree/main/week14/Assignment5)   
+[     • Assignment 6](https://github.com/HalemoGPA/Learn-CSS/tree/main/week14/Assignment6)     
+
+
+
+## Week 1️⃣5️⃣ 
+#### [codes for week 15](https://github.com/HalemoGPA/Learn-CSS/tree/main/week15)   
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-CSS/tree/main/week15/Assignment1)    
+[     • Assignment 2](https://github.com/HalemoGPA/Learn-CSS/tree/main/week15/Assignment2)    
+[     • Assignment 3](https://github.com/HalemoGPA/Learn-CSS/tree/main/week15/Assignment3)    
 
 
 <br><div align="center">
