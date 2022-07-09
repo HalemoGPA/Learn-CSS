@@ -1,3 +1,16 @@
-a:hover {
-    color: #f00;
+div {
+    outline: 10px solid #EEE;
+    background-color: rgb(226, 94, 103);
+    width: 200px;
+    height: 200px;
+    margin: 20% auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    opacity: .8;
+    transition: .4s;
 }

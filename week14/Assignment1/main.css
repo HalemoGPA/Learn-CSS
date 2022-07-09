@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  counter-reset: div;
+}
+
+.grid {
+  background-color: #ddd;
+  padding: 20px;
+  width: 800px;
+  height: 400px;
+  margin: 0 auto;
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 1fr 10fr;
+  gap: 15px;
+}
+
+.grid div {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #607D8B;
+}
+
+.grid div::after {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5em;
+
+  counter-increment: div;
+  content: "ELement " counter(div);
+  display: block;
+  clear: both;
+
+}
