@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  transform: rotate(45deg);
+}
+
+div {
+  width: 200px;
+  height: 200px;
+  margin: 100px auto;
+  background-color: black;
+  border-right: 5px solid white;
+  border-bottom: 5px solid white;
+  position: relative;
+
+}
+
+div::before {
+  content: "Elzero";
+  position: absolute;
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  background-color: #607D8B;
+  width: 265px;
+  height: 260px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+  padding: 10px;
+  border-bottom: 10px solid black;
+  transform: rotate(-45deg) translate(2px, 84px);
+  z-index: -1;
+}

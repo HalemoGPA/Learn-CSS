@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --backColor: #009688;
+  --textColor: white;
+}
+
+h1 {
+  font-size: 2em;
+  text-align: center;
+  padding: 15px 15px 15px 25px;
+  background-color: var(--backColor);
+  color: var(--textColor);
+  width: 150px;
+  margin: 100px auto;
+  position: relative;
+}
+
+h1::before {
+  content: "";
+  width: 20px;
+  height: 100%;
+  background-color: var(--backColor);
+  position: absolute;
+  top: 0;
+  left: -13px;
+  transform: skewX(20deg);
+  border-right: 5px solid white;
+  overflow: hidden;
+}
