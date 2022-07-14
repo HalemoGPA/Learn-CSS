@@ -1,0 +1,188 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 20px auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 560px;
+  height: 600px;
+
+}
+
+.parent-e {
+  width: 250px;
+  height: 400px;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(7, 1fr);
+  position: relative;
+}
+
+
+
+.parent-e .one {
+  grid-area: 1/1/2/span 5;
+}
+
+.parent-e .two {
+  grid-area: 2/1/span 2/2;
+}
+
+.parent-e .three {
+  grid-area: 4/1/5/span 5;
+}
+
+.parent-e .four {
+  grid-area: 5/1/span 2/2;
+}
+
+.parent-e .five {
+  grid-area: 7/1/8/span 5;
+}
+
+
+.parent-l {
+  width: 250px;
+  height: 400px;
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-rows: repeat(15, 1fr);
+  position: relative;
+}
+
+.parent-l .six {
+  grid-area: 1/1/span 13/3;
+}
+
+.parent-l .seven {
+  grid-area: 14/1/16/span 10;
+}
+
+
+.one,
+.two,
+.three,
+.four,
+.five,
+.six,
+.seven {
+  background-color: #323234;
+}
+
+.move-e,
+.move-l {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background-color: #FEA604;
+}
+
+
+
+
+.move-e {
+  right: 0;
+  top: 0;
+  transform: translate(-8px, 8px);
+  animation: 10s linear infinite move-e;
+}
+
+@keyframes move-e {
+  0% {
+    transform: translate(-8px, 8px);
+  }
+
+  5% {
+    transform: translate(-204px, 8px);
+  }
+
+  10% {
+    transform: translate(-204px, 179px);
+  }
+
+  15% {
+    transform: translate(-8px, 179px);
+  }
+
+  20% {
+    transform: translate(-204px, 179px);
+  }
+
+  25% {
+    transform: translate(-204px, 351px);
+  }
+
+  30% {
+    transform: translate(-8px, 351px);
+  }
+
+  35% {
+    transform: translate(-204px, 351px);
+  }
+
+  40% {
+    transform: translate(-204px, 8px);
+  }
+
+  45% {
+    transform: translate(-8px, 8px);
+  }
+
+  50% {
+    transform: translate(-8px, 8px);
+  }
+
+}
+
+.move-l {
+  right: 0;
+  bottom: 0;
+  transform: translate(-8px, -6px);
+  opacity: 0;
+  animation: move-l 10s linear infinite;
+}
+
+@keyframes move-l {
+  50% {
+    opacity: 0;
+    transform: translate(-8px, -6px);
+  }
+
+  55% {
+    opacity: 1;
+    transform: translate(-8px, -6px);
+  }
+
+  60% {
+    opacity: 1;
+    transform: translate(-205px, -6px);
+  }
+
+  70% {
+    opacity: 1;
+    transform: translate(-205px, -351px);
+  }
+
+  80% {
+    opacity: 0;
+    transform: translate(-205px, -351px);
+  }
+
+  90% {
+    opacity: 0;
+    transform: translate(-205px, -6px);
+  }
+
+  100% {
+    opacity: 0;
+    transform: translate(-8px, -6px);
+  }
+
+
+
+}
