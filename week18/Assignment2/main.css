@@ -1,0 +1,3 @@
+.parent>.child:last-child {
+  color: red;
+}

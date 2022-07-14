@@ -1,0 +1,3 @@
+div:not(.no-need) div:nth-last-of-type(2) {
+  color: red;
+}
