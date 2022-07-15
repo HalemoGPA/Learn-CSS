@@ -153,6 +153,14 @@ Elzero Web School CSS Course Assignments Solution
 [     • Assignment 8](https://github.com/HalemoGPA/Learn-CSS/tree/main/week18/Assignment8)     
 
 
+## Week 1️⃣9️⃣
+#### [codes for week 19](https://github.com/HalemoGPA/Learn-CSS/tree/main/week19)  
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-CSS/tree/main/week19/Assignment1)    
+[     • Assignment 2](https://github.com/HalemoGPA/Learn-CSS/tree/main/week19/Assignment2)    
+[     • Assignment 3](https://github.com/HalemoGPA/Learn-CSS/tree/main/week19/Assignment3)    
+
+
+
 
 <br><div align="center">
 
