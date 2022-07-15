@@ -2,10 +2,18 @@
 <div align="center">
 				<img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="230" alt="HTML"></div><div align="center"><br><b>CSS Course</b></div></a><br>
 				
+				
+				
 ![](https://i.imgur.com/waxVImv.png)
 
 # Learn CSS
-Elzero Web School CSS Course Assignments Solution
+
+<div align="center">
+	<img src="https://www.onlygfx.com/wp-content/uploads/2018/04/completed-stamp-4-1024x791.png" width="200">
+	<br><br>
+	<p>Elzero Web School CSS Course Assignments Solution</p>
+</div>	  
+
 ## Week 1️⃣
 #### [codes for week 1](https://github.com/HalemoGPA/Learn-CSS/tree/main/week1)  
 [     • Assignment 1](https://github.com/HalemoGPA/Learn-CSS/tree/main/week1/Assignment1)    
