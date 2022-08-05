@@ -1,3 +1,4 @@
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/Learn-CSS" alt="HalemoGPA">
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe" >
 <div align="center">
 				<img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="230" alt="HTML"></div><div align="center"><br><b>CSS Course</b></div></a><br>
